@@ -17,5 +17,18 @@
                 "path": "./themes/Herb's Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/herb-chan/herb-s-theme"
+    },
+    "publisher": "herbchan",
+    "keywords": [
+        "theme",
+        "themes",
+        "color",
+        "colour",
+        "color theme",
+        "colour theme"
+    ]
 }
