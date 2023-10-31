@@ -13,9 +13,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Herb's Theme",
+                "label": "Herb's Original",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Herb's Theme-color-theme.json"
+                "path": "./themes/herbs-original.json"
+            },
+            {
+                "label": "Herb's Cold ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herbs-cold.json"
             }
         ]
     },

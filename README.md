@@ -20,9 +20,13 @@ You can choose to do one of the following:
 
 Link to VSCode marketplace can be found [here](https://marketplace.visualstudio.com/items?itemName=herbchan.herbstheme).
 
-#### DemoName: Herb's Theme
+#### Demo
 
-![Herb's Themes Demo](./images/demo.png)
+-   Herb's Original
+    ![Herb's Original Demo](./images/demo-monokai.png)
+
+-   Herb's Cold
+    ![Herb's Cold Demo](./images/demo-cold.png)
 
 #### Github
 

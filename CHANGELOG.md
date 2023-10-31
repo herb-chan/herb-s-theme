@@ -28,3 +28,9 @@ All notable changes to the "herbstheme" extension will be documented in this fil
 
 -   Small patch
 -   Added extension's icon
+
+## [0.2.0] - 09.01.2023
+
+-   Minor update
+-   Changed the theme's name from 'Herb's Theme' to 'Herb's Original'
+-   Added a new theme called 'Herb's cold'
