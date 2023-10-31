@@ -2,7 +2,7 @@
     "name": "herbstheme",
     "displayName": "Herb's Themes",
     "description": "Crafted with passion from one coder to another, inspired by the timeless allure of Monokai, perfect for those who find solace in late-night coding sessions.",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.83.0"
     },
