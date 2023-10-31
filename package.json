@@ -1,0 +1,21 @@
+{
+    "name": "herbstheme",
+    "displayName": "Herb's Theme",
+    "description": "Colour theme extension created for those who code at night.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.83.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Herb's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Herb's Theme-color-theme.json"
+            }
+        ]
+    }
+}
