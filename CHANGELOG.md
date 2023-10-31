@@ -23,3 +23,8 @@ All notable changes to the "herbstheme" extension will be documented in this fil
 
 -   Small patch
 -   Fixed version numerations in the CHANGELOG.md
+
+## [0.1.2] - 08.31.2023
+
+-   Small patch
+-   Added extension's icon
